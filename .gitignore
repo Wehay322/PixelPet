@@ -1,0 +1,9 @@
+error.txt
+check.txt
+walk-check.txt
+sprites-transparent.png
+walk-transparent.png
+*.pdb
+.vs/
+bin/
+obj/
